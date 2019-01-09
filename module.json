@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": false,
+    "name": "instant-exit",
+    "author": "aurelius88",
+    "description": "Exit the game without having to wait 10 seconds.",
+    "version": "1.0.0",
+    "options": {
+        "niceName": "Instant Exit"
+    },
+    "servers": ["https://raw.githubusercontent.com/aurelius88/instant-exit/master/"],
+    "supportUrl": "https://github.com/aurelius88/instant-exit/issues",
+    "dependencies": {
+    }
+}
