@@ -4,7 +4,7 @@
     "description": "Exit the game without having to wait 10 seconds.",
     "version": "1.0.2",
     "options": {
-        "niceName": "Instant Exit"
+        "cliName": "Instant Exit"
     },
     "servers": ["https://raw.githubusercontent.com/aurelius88/instant-exit/master/"],
     "supportUrl": "https://github.com/aurelius88/instant-exit/issues",
